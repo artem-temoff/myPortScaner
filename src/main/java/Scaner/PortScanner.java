@@ -1,4 +1,4 @@
-package Scaner;
+package scaner;
 
 import java.io.IOException;
 import java.net.InetAddress;

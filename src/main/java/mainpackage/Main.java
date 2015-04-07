@@ -1,7 +1,7 @@
 package mainpackage;
 
 
-import Scaner.PortScanner;
+import scaner.PortScanner;
 
 import java.io.IOException;
 import java.net.InetAddress;
